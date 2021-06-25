@@ -81,6 +81,29 @@ ORDER BY barrio, nombres, apellidos;
 SELECT barrio FROM personas GROUP BY barrio;
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 -----------consultas INNER JOIN. OUTER JOINS (RIGT JOIN, LEFT JOIN {composiciones externas}	
 
 -----------------------------------------------
